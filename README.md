@@ -2,7 +2,6 @@
 CS261 Multimedia Technology project. <br/>
 Theme: Slice of Life. <br/>
 Using Abobe Premiere Pro. <br/>
-[Check out my video :) ](https://youtu.be/3Tl3X9fd7cI)
 
 
 ### The project
@@ -20,3 +19,7 @@ Using Abobe Premiere Pro. <br/>
 <p align="center">
  <img src="in and out points.png" width="600">
 </p>
+
+> [!NOTE]
+> Check out my video [here :)](https://youtu.be/3Tl3X9fd7cI) <br/>
+> P.S better with headphones 
