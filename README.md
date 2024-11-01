@@ -4,7 +4,7 @@ Theme: Slice of Life. <br/>
 Using Abobe Premiere Pro.
 
 ### The project
-`"Spice of Life` is a video showcasing my life in slices. It can also be described as an expression of appreciation towards my day to day life, showing scenes of the people I care, the places I travel, and the random moments I've captured. Every photo and video was recorded not only for the purpose of this project, but the moment I felt when first witnessed.  
+`"Spice" of Life` is a video showcasing my life in slices. It can also be described as an expression of appreciation towards my day to day life, showing scenes of the people I care, the places I travel, and the random moments I've captured. Every photo and video was recorded not only for the purpose of this project, but the moment I felt when first witnessed.  
 
 - `myAnalysis.pdf`: contains the analysis, process, and decisions I've made in creating this video project.
 
