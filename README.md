@@ -17,7 +17,11 @@ Using Abobe Premiere Pro. <br/>
 <br/>
 
 <p align="center">
- <img src="in and out points.png" width="600">
+ <img src="Cover.png" width="400">
+ <br>
+ <img src="transfomr elements.png" width="400">
+ <br>
+ <img src="in and out points.png" width="400">
 </p>
 
 > [!NOTE]
