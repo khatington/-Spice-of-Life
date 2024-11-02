@@ -16,13 +16,11 @@ Using Abobe Premiere Pro. <br/>
 - Contain image editing techniques. 
 <br/>
 
-<p float="left">
  <p align="center">
- <img src="Cover.png" width="500">
- <img src="transfomr elements.png" width="500">
- <img src="in and out points.png" width="500">
+ <img src="Cover.png" width="600">
+ <img src="transfomr elements.png" width="600">
+ <img src="in and out points.png" width="600">
  </p>
-</p>
 
 > [!NOTE]
 > Check out my video [here :)](https://youtu.be/3Tl3X9fd7cI) <br/>
